@@ -1,0 +1,23 @@
+title: "Pitchwatch - Football"
+description: "Mapping football pitches. Watching change."
+images: 
+  - "images/home/hero/bill-sitting.png"
+
+#logo: "images/home/hero/Logo.png"
+
+favicons:
+  themeColor: "#FFFFFF"
+  backgroundColor: "#FFFFFF"
+  faviconColor: "#000000"
+
+contact:
+  - "contact@pitchwatch.football"
+
+social:
+  dribbble: "#"
+  instagram: "#"
+  facebook: "#"
+  twitter: "#"
+
+copyright: "© 2026 Agency Web All Rights Reserved"
+

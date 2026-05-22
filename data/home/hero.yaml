@@ -1,0 +1,38 @@
+enable: true
+
+title: "Every **pitch** tells a story."
+text: "We collect information about football pitches, analyze their location and characteristics, and explore how they change over time. Our goal is to make information about football pitches easier to explore, compare, and understand."
+
+buttons:
+  - label: "Contact Us"
+    link: "mailto:contact@pitchwatch.football"
+
+#   - label: "View More"
+#     link: ""
+
+
+image: "images/home/hero/soccer-pitch.jpg"
+
+
+
+# items:
+#   - icon: "fas fa-user"
+#     color: "#4628A4"
+#     title: "Web Application"
+#     text: "Lorem ipsum lorem lorem"
+
+#   - icon: "fas fa-user"
+#     color: "#5FC300"
+#     title: "SEO"
+#     text: "Lorem ipsum lorem lorem"
+
+#   - icon: "fas fa-user"
+#     color: "#00329B"
+#     title: "AR/VR Solutions"
+#     text: "Lorem ipsum lorem lorem"
+
+#   - icon: "fas fa-user"
+#     color: "#BB3800"
+#     title: "Mobile Applications"
+#     text: "Lorem ipsum lorem lorem"
+
